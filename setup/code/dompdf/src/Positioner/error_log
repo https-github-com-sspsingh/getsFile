@@ -1,0 +1,8 @@
+[25-Aug-2016 03:12:50 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/Block.php on line 19
+[25-Aug-2016 03:13:22 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/NullPositioner.php on line 19
+[25-Aug-2016 03:13:26 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/Absolute.php on line 17
+[25-Aug-2016 03:13:28 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/TableRow.php on line 19
+[25-Aug-2016 03:14:27 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/Inline.php on line 22
+[25-Aug-2016 15:00:37 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/Fixed.php on line 18
+[25-Aug-2016 15:03:47 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/TableCell.php on line 20
+[25-Aug-2016 15:03:56 America/Chicago] PHP Fatal error:  Class 'Dompdf\Positioner\AbstractPositioner' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Positioner/ListBullet.php on line 20

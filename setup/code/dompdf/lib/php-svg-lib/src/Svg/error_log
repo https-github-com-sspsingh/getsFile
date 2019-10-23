@@ -1,0 +1,2 @@
+[25-Aug-2016 03:21:18 America/Chicago] PHP Fatal error:  Class 'Svg\Tag\AbstractTag' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/lib/php-svg-lib/src/Svg/Document.php on line 31
+[25-Aug-2016 15:04:14 America/Chicago] PHP Fatal error:  Class 'Svg\Style' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/lib/php-svg-lib/src/Svg/DefaultStyle.php on line 12

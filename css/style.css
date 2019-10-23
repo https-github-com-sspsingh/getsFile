@@ -1,0 +1,41 @@
+#chartdiv {
+	background: #282828 url('http://www.amcharts.com/lib/3/patterns/chalk/bg.jpg');color: #fff;
+	width		: 100%;
+	height		: 500px;
+	font-size	: 11px;
+		
+	width		: 100%;
+	height		: 500px;
+	font-size	: 11px;
+	
+}	
+
+.Maindaitory
+{
+	color:#F00 !important;
+}
+
+.attachment-display span
+{
+	border:solid 1px #EEE;
+	box-shadow:1px 2px #EFEFEF;
+	width:100%;
+	max-width:100%;
+	display:table;
+	padding:10px;
+	height:100%;
+	position:relative;
+	
+}
+.attachment-display .remove 
+{
+	border:none;
+	box-shadow:none;
+	text-align:right;
+	cursor:pointer;
+	padding:0;
+	position:absolute;
+	right:20px;
+	width:auto;
+	
+}

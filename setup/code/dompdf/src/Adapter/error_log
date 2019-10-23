@@ -1,0 +1,3 @@
+[25-Aug-2016 03:12:41 America/Chicago] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Adapter/GD.php on line 25
+[25-Aug-2016 03:13:53 America/Chicago] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Adapter/CPDF.php on line 38
+[25-Aug-2016 03:14:03 America/Chicago] PHP Fatal error:  Interface 'Dompdf\Canvas' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Adapter/PDFLib.php on line 36

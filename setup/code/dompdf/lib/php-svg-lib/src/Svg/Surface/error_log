@@ -1,0 +1,3 @@
+[25-Aug-2016 03:26:10 America/Chicago] PHP Fatal error:  Interface 'Svg\Surface\SurfaceInterface' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/lib/php-svg-lib/src/Svg/Surface/SurfaceGmagick.php on line 14
+[25-Aug-2016 03:27:41 America/Chicago] PHP Fatal error:  Interface 'Svg\Surface\SurfaceInterface' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/lib/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 15
+[25-Aug-2016 03:28:15 America/Chicago] PHP Fatal error:  Interface 'Svg\Surface\SurfaceInterface' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/lib/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 15

@@ -1,0 +1,3 @@
+[25-Aug-2016 03:17:24 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/tests/Dompdf/Tests/AutoloaderTest.php on line 8
+[25-Aug-2016 03:19:23 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/tests/Dompdf/Tests/OptionsTest.php on line 8
+[25-Aug-2016 15:04:05 America/Chicago] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/tests/Dompdf/Tests/DompdfTest.php on line 12

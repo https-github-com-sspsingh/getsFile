@@ -1,0 +1,7 @@
+[25-Aug-2016 03:12:45 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\Block' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/TableRowGroup.php on line 18
+[25-Aug-2016 03:12:58 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/ListBullet.php on line 24
+[25-Aug-2016 03:13:41 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/Text.php on line 22
+[25-Aug-2016 03:13:59 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/Inline.php on line 20
+[25-Aug-2016 03:14:09 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/Block.php on line 20
+[25-Aug-2016 03:14:13 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\Block' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/TableCell.php on line 19
+[25-Aug-2016 15:02:48 America/Chicago] PHP Fatal error:  Class 'Dompdf\Renderer\Block' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Renderer/Image.php on line 21

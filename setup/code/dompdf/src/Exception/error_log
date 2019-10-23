@@ -1,0 +1,1 @@
+[25-Aug-2016 15:03:08 America/Chicago] PHP Fatal error:  Class 'Dompdf\Exception' not found in /home/wcsoft/public_html/Transport_API/API/dompdf/src/Exception/ImageException.php on line 18
